@@ -70,9 +70,7 @@ Although no client responses were received during this assignment, the experienc
 
 ## 🧑‍💻 Author
 
-**Sana Batool**
-Full Stack / Mobile Developer
+**Tariq Mehmood**
+Full Stack Developer/ Mobile Developer / AI
 
-## ⭐ Support This Project
-
-If you like this project, please **star ⭐ the repo** it helps me grow!
+ it helps me grow!
